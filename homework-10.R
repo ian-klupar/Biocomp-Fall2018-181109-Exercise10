@@ -117,7 +117,7 @@ ggplot(output3,aes(x=time,y=N.1))+
   geom_line(data=output3,mapping=aes(x=time,y=N.2),col='red')+
   theme_classic()
 
-# as long as a12 < a11 and a21 < a22, the populations seem to be about to coexist
+# as long as a12 < a11 and a21 < a22, the populations seem to be able to coexist
 
 
 
